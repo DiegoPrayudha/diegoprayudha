@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there👋, I'm Diego
+Currently working as a Data Scientist in Bandung, Indonesia. Now, focused on AI and Machine Learning.
+
+### Let's connect!
+
+Find me on <a href="https://www.linkedin.com/in/diego-prayudha/">LinkedIn</a> 💼
 
 <!--
 **DiegoPrayudha/diegoprayudha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
